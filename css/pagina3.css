@@ -1,0 +1,68 @@
+body{
+    background-color:   rgb(152, 182, 216); 
+}
+
+
+
+ul{
+
+    list-style-type: none;         
+
+}
+
+  
+
+nav li a {                                             
+    text-decoration: none;
+    background-color:rgb(97, 114, 189);
+    color: aliceblue;
+    padding: 20px;
+    display: 1block;
+    width: 500px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+nav{                                                        
+    width: 350px;
+    margin: auto;
+}
+
+nav ul li{                                        
+float :left ;
+}
+
+nav li a:hover{                                         
+    background-color: rgb(167, 162, 156);
+}
+
+
+.table{
+    background-color: rgb(152, 182, 216); 
+    width: 1500px;
+    height: 400px;
+    display: table;
+    border-collapse: collapse;
+    border-radius: #fff;
+}
+
+.row{
+    display: table-row;
+    text-align: center;
+}
+
+.cell{
+    border: 3px solid rgb(152, 182, 216);
+    display: table-row;
+    width: 200px;
+    padding: 15px;
+}
+
+.imagen12{
+    width: auto;
+    border-radius: 15px;
+}
+.imagen13{
+    width: auto;
+    border-radius: 15px;
+}
